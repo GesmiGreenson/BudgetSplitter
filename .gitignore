@@ -1,0 +1,16 @@
+# Node.js (React)
+budget_frontend/node_modules/
+budget_frontend/build/
+
+# Python (Django)
+budget_backend/__pycache__/
+budget_backend/*.pyc
+budget_backend/*.pyo
+budget_backend/*.pyd
+budget_backend/env/
+budget_backend/venv/
+budget_backend/*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
